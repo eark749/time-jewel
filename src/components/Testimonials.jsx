@@ -1,17 +1,17 @@
 const testimonials = [
   {
     quote: "Consistency in gold casting is unparalleled. We've seen significant reduction in finishing time.",
-    name: "Sarah Jenkins",
+    name: "Priya Sharma",
     role: "Creative Director, Luxe Gold",
   },
   {
     quote: "Transparent wastage terms and precise execution. They are truly partners in our manufacturing.",
-    name: "Robert Chen",
-    role: "Founder, Chen & Co Jewels",
+    name: "Rajesh Kumar",
+    role: "Founder, Kumar & Co Jewels",
   },
   {
     quote: "Excellent handle on CZ casting. The detail even on smaller pieces is remarkable for volume.",
-    name: "Elena Rodriguez",
+    name: "Kavita Desai",
     role: "Manager, Aurum Collective",
   },
 ]
